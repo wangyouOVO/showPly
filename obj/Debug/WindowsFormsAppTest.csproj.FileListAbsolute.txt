@@ -1,0 +1,14 @@
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csprojAssemblyReference.cache
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Form1.resources
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\OpenTK.Compatibility.dll
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\OpenTK.dll
+F:\Allproject\CsLearn\WindowsFormsAppTest\bin\Debug\OpenTK.GLControl.dll
+F:\Allproject\CsLearn\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CopyComplete
