@@ -1,7 +1,7 @@
 ﻿
 namespace WindowsFormsAppTest
 {
-    partial class Form1
+    partial class mainWin
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -40,7 +40,7 @@ namespace WindowsFormsAppTest
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(183, 67);
             this.button1.TabIndex = 0;
-            this.button1.Text = "hello";
+            this.button1.Text = "getPly";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.hello);
             // 
@@ -59,14 +59,14 @@ namespace WindowsFormsAppTest
             this.OpenGLWorker.DoWork += new System.ComponentModel.DoWorkEventHandler(this.OpenGLWorker_DoWork);
             this.OpenGLWorker.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.OpenGLWorker_RunWorkerCompleted);
             // 
-            // Form1
+            // mainWin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(512, 381);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "mainWin";
             this.Text = "showply";
             this.ResumeLayout(false);
 
